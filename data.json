@@ -1,0 +1,123 @@
+[
+  {
+    "nome": "Código Limpo: Habilidades Práticas do Agile Software",
+    "descricao": "Um guia essencial para escrever código de alta qualidade, legível e de fácil manutenção, com foco em práticas de desenvolvimento ágil.",
+    "ano": 2008,
+    "link": "https://www.amazon.com.br/C%C3%B3digo-limpo-Habilidades-pr%C3%A1ticas-Software/dp/8576082675",
+    "autores": ["Robert C. Martin"],
+    "categoria": "Engenharia de Software"
+  },
+  {
+    "nome": "O Programador Pragmático: De Aprendiz a Mestre",
+    "descricao": "Oferece conselhos práticos para se tornar um desenvolvedor mais eficaz e produtivo, cobrindo desde a responsabilidade pessoal até ferramentas de carreira.",
+    "ano": 1999,
+    "link": "https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8573077143",
+    "autores": ["Andrew Hunt", "David Thomas"],
+    "categoria": "Desenvolvimento Profissional"
+  },
+  {
+    "nome": "Padrões de Projetos: Soluções Reutilizáveis de Software Orientado a Objetos",
+    "descricao": "Um catálogo de soluções simples e elegantes para problemas comuns em design de software, escrito pelo famoso 'Gang of Four' (GoF).",
+    "ano": 1994,
+    "link": "https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Software/dp/8573076104",
+    "autores": [
+      "Erich Gamma",
+      "Richard Helm",
+      "Ralph Johnson",
+      "John Vlissides"
+    ],
+    "categoria": "Arquitetura de Software"
+  },
+  {
+    "nome": "Arquitetura Limpa: O Guia do Artesão para Estrutura e Design de Software",
+    "descricao": "Ensina os princípios universais do design de software para criar sistemas robustos e flexíveis, independentemente da tecnologia utilizada.",
+    "ano": 2017,
+    "link": "https://www.amazon.com.br/Arquitetura-limpa-Guia-artes%C3%A3o-estrutura/dp/8550804606",
+    "autores": ["Robert C. Martin"],
+    "categoria": "Arquitetura de Software"
+  },
+  {
+    "nome": "Refatoração: Aperfeiçoando o Design de Códigos Existentes",
+    "descricao": "Um guia clássico sobre como melhorar a estrutura interna de um software sem alterar seu comportamento externo, resultando em código mais limpo.",
+    "ano": 1999,
+    "link": "https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8573076996",
+    "autores": ["Martin Fowler"],
+    "categoria": "Engenharia de Software"
+  },
+  {
+    "nome": "O Mítico Homem-Mês: Ensaios sobre Engenharia de Software",
+    "descricao": "Uma obra fundamental que explora a gestão de projetos de software, argumentando que adicionar mais pessoas a um projeto atrasado o torna ainda mais lento.",
+    "ano": 1975,
+    "link": "https://www.amazon.com.br/M%C3%ADtico-Homem-M%C3%AAs-Sobre-Engenharia-Software/dp/8576080656",
+    "autores": ["Frederick P. Brooks Jr."],
+    "categoria": "Gerenciamento de Projetos"
+  },
+  {
+    "nome": "Domain-Driven Design: Atacando as Complexidades no Coração do Software",
+    "descricao": "Apresenta uma abordagem para o desenvolvimento de software que se concentra em modelar o domínio de negócio e conectar essa implementação ao código.",
+    "ano": 2003,
+    "link": "https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215",
+    "autores": ["Eric Evans"],
+    "categoria": "Arquitetura de Software"
+  },
+  {
+    "nome": "Trabalho Eficaz com Código Legado",
+    "descricao": "Fornece estratégias e técnicas para trabalhar com bases de código grandes e não testadas, permitindo que desenvolvedores façam alterações de forma segura.",
+    "ano": 2004,
+    "link": "https://www.amazon.com.br/Trabalho-eficaz-com-c%C3%B3digo-legado/dp/8577805332",
+    "autores": ["Michael C. Feathers"],
+    "categoria": "Engenharia de Software"
+  },
+  {
+    "nome": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "descricao": "Um guia completo para se preparar para entrevistas técnicas em grandes empresas de tecnologia, com centenas de perguntas e soluções detalhadas.",
+    "ano": 2015,
+    "link": "https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850",
+    "autores": ["Gayle Laakmann McDowell"],
+    "categoria": "Entrevistas Técnicas"
+  },
+  {
+    "nome": "Introduction to Algorithms (CLRS)",
+    "descricao": "A referência definitiva para algoritmos e estruturas de dados, cobrindo uma vasta gama de tópicos de forma rigorosa e abrangente.",
+    "ano": 1990,
+    "autores": [
+      "Thomas H. Cormen",
+      "Charles E. Leiserson",
+      "Ronald L. Rivest",
+      "Clifford Stein"
+    ],
+    "categoria": "Ciência da Computação"
+  },
+  {
+    "nome": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+    "descricao": "Uma novela que ensina os princípios fundamentais do DevOps através de uma história envolvente sobre uma empresa de TI em crise.",
+    "ano": 2013,
+    "link": "https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business/dp/0988262592",
+    "autores": ["Gene Kim", "Kevin Behr", "George Spafford"],
+    "categoria": "DevOps"
+  },
+  {
+    "nome": "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos",
+    "descricao": "Um livro amigável para iniciantes que desmistifica algoritmos com ilustrações claras e exemplos práticos em Python.",
+    "ano": 2016,
+    "link": "https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634",
+    "autores": ["Aditya Y. Bhargava"],
+    "categoria": "Ciência da Computação"
+  },
+  {
+    "nome": "Pense em Python: Pense como um Cientista da Computação",
+    "descricao": "Uma introdução à programação e ao pensamento computacional usando a linguagem Python, com foco na resolução de problemas.",
+    "ano": 2012,
+    "link": "https://www.amazon.com.br/Pense-em-Python-2%C2%AA-Edi%C3%A7%C3%A3o/dp/857522574X",
+    "autores": ["Allen B. Downey"],
+    "categoria": "Linguagens de Programação"
+  },
+  {
+    "nome": "JavaScript: O Guia Definitivo",
+    "descricao": "A referência mais completa sobre a linguagem JavaScript, cobrindo desde o básico até os recursos mais avançados da linguagem e do ambiente de navegador.",
+    "ano": 2020,
+    "link": "https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/858260572X",
+    "autores": ["David Flanagan"],
+    "categoria": "Linguagens de Programação"
+  }
+]

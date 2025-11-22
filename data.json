@@ -119,5 +119,63 @@
     "link": "https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/858260572X",
     "autores": ["David Flanagan"],
     "categoria": "Linguagens de Programação"
+  },
+  {
+    "nome": "Code Complete: A Practical Handbook of Software Construction",
+    "descricao": "Um guia abrangente sobre a construção de software, cobrindo desde o design e codificação até a depuração e o teste, com foco na criação de software de alta qualidade.",
+    "ano": 2004,
+    "link": "https://www.amazon.com.br/Code-Complete-Practical-Handbook-Construction/dp/0735619670",
+    "autores": ["Steve McConnell"],
+    "categoria": "Engenharia de Software"
+  },
+  {
+    "nome": "Designing Data-Intensive Applications",
+    "descricao": "Um guia essencial para a construção de sistemas de dados complexos, explorando os prós e contras de várias tecnologias para processamento e armazenamento de dados.",
+    "ano": 2017,
+    "link": "https://www.amazon.com.br/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373324",
+    "autores": ["Martin Kleppmann"],
+    "categoria": "Arquitetura de Software"
+  },
+  {
+    "nome": "Accelerate: The Science of Lean Software and DevOps",
+    "descricao": "Apresenta os resultados de quatro anos de pesquisa para mostrar como medir o desempenho do desenvolvimento de software e o que o impulsiona, usando um modelo estatístico rigoroso.",
+    "ano": 2018,
+    "link": "https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339",
+    "autores": ["Nicole Forsgren", "Jez Humble", "Gene Kim"],
+    "categoria": "DevOps"
+  },
+  {
+    "nome": "Site Reliability Engineering: How Google Runs Production Systems",
+    "descricao": "Uma coleção de ensaios e artigos de engenheiros do Google que explicam como a empresa constrói e opera alguns dos maiores sistemas de software do mundo.",
+    "ano": 2016,
+    "link": "https://www.amazon.com.br/Site-Reliability-Engineering-Production-Systems/dp/149192912X",
+    "autores": [
+      "Betsy Beyer",
+      "Chris Jones",
+      "Jennifer Petoff",
+      "Niall Richard Murphy"
+    ],
+    "categoria": "SRE"
+  },
+  {
+    "nome": "Use a Cabeça!: Padrões de Projetos",
+    "descricao": "Uma abordagem visual e amigável para aprender padrões de projeto, usando uma linguagem simples e exemplos do mundo real para facilitar a compreensão de conceitos complexos.",
+    "ano": 2005,
+    "link": "https://www.amazon.com.br/Use-Cabe%C3%A7a-Padr%C3%B5es-Projetos-Head/dp/8576081741",
+    "autores": [
+      "Eric Freeman",
+      "Elisabeth Robson",
+      "Bert Bates",
+      "Kathy Sierra"
+    ],
+    "categoria": "Arquitetura de Software"
+  },
+  {
+    "nome": "Structure and Interpretation of Computer Programs (SICP)",
+    "descricao": "Um texto clássico do MIT que ensina os princípios fundamentais da programação, incluindo abstração, recursão e modularidade, usando a linguagem Scheme.",
+    "ano": 1985,
+    "link": "https://www.amazon.com.br/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871",
+    "autores": ["Harold Abelson", "Gerald Jay Sussman", "Julie Sussman"],
+    "categoria": "Ciência da Computação"
   }
 ]

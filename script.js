@@ -28,17 +28,15 @@ function renderizarCards(dados) {
   for (let dado of dados) {
     let article = document.createElement("article");
     article.classList.add("card"); // Adiciona a classe para estilização
-    article.innerHTML = `
-    <h2>${dado.nome}</h2>
-          <p><strong>Ano de Publicação:</strong> ${dado.ano}</p>
-          <p><strong>Categoria:</strong> ${dado.categoria}</p>
-          <p>${dado.descricao}</p>
-          <p><strong>Autores:</strong></p>
-          <ul>
-            ${dado.autores.map((autor) => `<li>${autor}</li>`).join("")}
-          </ul>
-          <a href="${dado.link}" target="_blank">Saiba mais</a>
-           `;
+    article.innerHTML = `<h2>${dado.nome}</h2>
+      <p><strong>Ano de Publicação:</strong> ${dado.ano}</p>
+      <p><strong>Categoria:</strong> ${dado.categoria}</p>
+      <p>${dado.descricao}</p>
+      <p><strong>Autores:</strong></p>
+      <ul>
+        ${dado.autores.map((autor) => `<li>${autor}</li>`).join("")}
+      </ul>
+      <a href="${dado.link}" target="_blank">Saiba mais</a>`;
 
     cardContainer.appendChild(article);
   }
